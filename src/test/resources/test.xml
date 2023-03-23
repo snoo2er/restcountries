@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="countries suite">
+
+    <test name="country codes test">
+        <classes>
+            <class name="com.intexsoft.countries.automation.CountryCodesTest" />
+        </classes>
+    </test>
+
+</suite>
